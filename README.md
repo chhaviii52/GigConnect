@@ -36,16 +36,7 @@ India has millions of informal workers, such as plumbers, electricians, drivers,
 - **🏛️ Government Support** – Aligns with Digital India & MSME growth initiatives.
 
 
-## 🛠️ Installation & Setup
-```sh
-# Clone the repository
-git clone https://github.com/yourusername/informal-work-platform.git
 
-# Navigate to the project directory
-cd informal-work-platform
-
-# Install dependencies
-npm install  # or yarn install
 
 # Start the development server
 npm run dev  # or yarn dev
